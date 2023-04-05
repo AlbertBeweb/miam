@@ -1,0 +1,9 @@
+[23-Mar-2023 11:17:58 UTC] PHP Fatal error:  Uncaught LogicException: Symfony Runtime is missing. Try running "composer require symfony/runtime". in /home/alni8166/public_html/market/bin/console:8
+Stack trace:
+#0 {main}
+  thrown in /home/alni8166/public_html/market/bin/console on line 8
+[23-Mar-2023 11:20:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /home/alni8166/public_html/market/vendor/symfony/translation/MessageCatalogue.php on line 76
+[23-Mar-2023 11:39:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4800512 bytes) in /home/alni8166/public_html/market/vendor/symfony/dependency-injection/ContainerBuilder.php on line 1537
+[23-Mar-2023 11:39:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4800512 bytes) in /home/alni8166/public_html/market/vendor/symfony/dependency-injection/ContainerBuilder.php on line 1537
+[23-Mar-2023 11:40:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4800512 bytes) in /home/alni8166/public_html/market/vendor/symfony/dependency-injection/ContainerBuilder.php on line 1537
+[23-Mar-2023 12:03:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4800512 bytes) in /home/alni8166/public_html/market/vendor/symfony/dependency-injection/ContainerBuilder.php on line 1537

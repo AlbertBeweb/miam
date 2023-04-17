@@ -43,7 +43,6 @@ return [
     Doctrine\Bundle\MigrationsBundle\DoctrineMigrationsBundle::class => ['all' => true],
     Sylius\Bundle\FixturesBundle\SyliusFixturesBundle::class => ['all' => true],
     Sylius\Bundle\PayumBundle\SyliusPayumBundle::class => ['all' => true],
-    Sylius\Bundle\ThemeBundle\SyliusThemeBundle::class => ['all' => true],
     Sylius\Bundle\AdminBundle\SyliusAdminBundle::class => ['all' => true],
     Sylius\Bundle\ShopBundle\SyliusShopBundle::class => ['all' => true],
     Symfony\Bundle\DebugBundle\DebugBundle::class => ['dev' => true, 'test' => true, 'test_cached' => true],
@@ -62,4 +61,5 @@ return [
     Symfony\WebpackEncoreBundle\WebpackEncoreBundle::class => ['all' => true],
     Vich\UploaderBundle\VichUploaderBundle::class => ['all' => true],
     Odiseo\SyliusBannerPlugin\OdiseoSyliusBannerPlugin::class => ['all' => true],
+    Sylius\Bundle\ThemeBundle\SyliusThemeBundle::class => ['all' => true],
 ];

@@ -29,6 +29,7 @@ Documentation is available at [docs.sylius.com](http://docs.sylius.com).
 $ wget http://getcomposer.org/composer.phar
 $ php composer.phar create-project sylius/sylius-standard project
 $ cd project
+$ nvm install 16
 $ yarn install
 $ yarn build
 $ php bin/console sylius:install

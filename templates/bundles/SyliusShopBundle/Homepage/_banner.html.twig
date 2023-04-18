@@ -1,3 +1,5 @@
+{{ render(url('odiseo_sylius_banner_plugin_shop_partial_banner', {'template': '@OdiseoSyliusBannerPlugin/Shop/Banner/_banner.html.twig'})) }}
+<br><br><br><br><br>
 <div class="homepage-banner">
     <div class="homepage-banner__image">
         {% if use_webpack %}
@@ -11,4 +13,3 @@
         <a href="#" class="ui huge primary button">{{ 'sylius.homepage.banner_button'|trans }}</a>
     </div>
 </div>
-{{ render(url('odiseo_sylius_banner_plugin_shop_partial_banner', {'template': '@OdiseoSyliusBannerPlugin/Shop/Banner/_banner.html.twig'})) }}

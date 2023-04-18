@@ -1017,7 +1017,7 @@ sylius:
         La responsabilité sociale des entreprises (RSE) est une dimension depuis longtemps observée à Val de Luce, entreprise familiale implantée en milieu rural. Plus de la moitié des salariés sont des femmes.'
         brace_yoursel_winter_is_coming: 'Préparez-vous ! L''été arrive'
         newsletter: 'Newsletter'
-        sylius.homepage.newsletter_description: 'Bienvenue sur notre site web !'
+    sylius.homepage.newsletter_description: 'Bienvenue sur notre site web !'
     subscribe: 'S''abonner'
     lightbox:
         image_album_label: 'Page %1 de %2'
